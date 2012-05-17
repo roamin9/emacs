@@ -1,0 +1,4 @@
+;; 颜色主题
+
+(add-to-list 'load-path "~/.emacs.d/vendor/color-theme")
+(require 'color-theme)

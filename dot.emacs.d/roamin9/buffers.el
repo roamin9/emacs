@@ -1,0 +1,5 @@
+;; buffer相关的操作
+
+(require 'ido)
+(ido-mode t)
+
